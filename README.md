@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently React/Nextjs 
+- 🌱 I’m currently working with React/Nextjs as my stack 
 
 - 🤔 I’m looking for help with: a job
 - 💬 Ask me about: frontEnd Development
