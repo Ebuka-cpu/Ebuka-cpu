@@ -1,4 +1,4 @@
-### My name is Anyaegbu Ebuka felix. graduate of computer science Michael Okpara University Umudike, Abia, Nigeria. I am a frontEnd web developer, who is passionate about users experience and interaction with the web. I am enthusiatic about learning new technogies. Ebukaanyaegbu7@gmail.com or 07036176131 or follow me on Twitter @anyaegbu_ebuka 
+###my name is Anyaegbu Ebuka Felix, a graduate of Michael okpara university of agriculture umudike Abia Nigeria. A Hardworking and passionate front-end web developer with strong problem solving, focus towards the development of web applications. Utilizing enterprise level languages to deliver solutions with a customer first approach. You can contact me through Ebukaanyaegbu7@gmail.com or 07036176131 or follow me on Twitter @anyaegbu_ebuka 
 
 <!--
 **Ebuka-cpu/Ebuka-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
